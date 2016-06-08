@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.hackphone" name="Hackphone repository" version="1.0" provider-name="Hackphone Repo">
+	<extension point="xbmc.addon.repository" name="Hackphone Repository">
+		<info compressed="false">http://raw.github.com/shopgps/repository.hackphone/master/addons.xml</info>
+		<checksum>http://raw.github.com/shopgps/repository.hackphone/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/shopgps/repository.hackphone/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Hackphone All-In-One Addon</summary>
+		<description>Addon Description</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
