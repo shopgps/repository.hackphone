@@ -27,4 +27,25 @@
 	</extension>
 	<nofanart>true</nofanart>
 </addon>
+<addon id="plugin.video.youtube" name="YouTube" version="5.2.2" provider-name="Hackphone Repository">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary lang="en">Plugin for YouTube</summary>
+        <description lang="en">YouTube is one of the biggest video-sharing websites of the world.</description>
+		<description lang="en">YouTube là một trong các trang web chia sẻ video lớn nhất thế giới.</description>
+		<disclaimer lang="en"></disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+		<forum>http://forum.kodi.tv/showthread.php?tid=267160</forum>
+		<website>http://spyphoneapps.com</website>
+		<email></email>
+		<source>https://hackphone.net/repo/plugin.video.youtube</source>
+	</extension>
+</addon>
 </addons>

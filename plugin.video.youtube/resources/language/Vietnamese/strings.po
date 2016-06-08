@@ -1,0 +1,469 @@
+# Kodi Media Center language file
+# Addon Name: YouTube
+# Addon id: plugin.video.youtube
+# Addon version: 5.1.9~beta1
+# Addon Provider: bromix
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2015-09-21 11:01+0000\n"
+"PO-Revision-Date: 2016-06-06 05:36+0700\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi_VN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: Dinh Vi <dinhvilbs@gmail.com>\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgctxt "Addon Summary"
+msgid "Plugin for YouTube"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "YouTube is a one of the biggest video-sharing websites of the world."
+msgstr "YouTube là một trong số các trang web chia sẻ video lớn nhất thế giới."
+
+# Kodion Settings
+msgctxt "#30000"
+msgid "General"
+msgstr "Tổng quan"
+
+msgctxt "#30001"
+msgid "Username"
+msgstr "Điền tên đăng nhập"
+
+msgctxt "#30002"
+msgid "Password"
+msgstr "Mật khẩu"
+
+# empty strings from id 30003 to 30008
+msgctxt "#30009"
+msgid "Always ask for the video quality"
+msgstr "Hỏi tải về chất lượng trước khi phát"
+
+msgctxt "#30010"
+msgid "Video Quality"
+msgstr "Chất lượng Video"
+
+msgctxt "#30011"
+msgid "480p"
+msgstr "Bật 480p"
+
+msgctxt "#30012"
+msgid "720p (HD)"
+msgstr "Bật 720p"
+
+msgctxt "#30013"
+msgid "1080p (HD)"
+msgstr "Bật 720p"
+
+msgctxt "#30014"
+msgid "2160p (4k)"
+msgstr ""
+
+msgctxt "#30015"
+msgid "4320p (8k)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "240p"
+msgstr ""
+
+msgctxt "#30017"
+msgid "360p"
+msgstr ""
+
+# empty strings from id 30018 to 30019
+msgctxt "#30020"
+msgid "Allow 3D"
+msgstr "Cho phép 3D"
+
+msgctxt "#30021"
+msgid "Show Fanart"
+msgstr "Hiển thị nội dung"
+
+msgctxt "#30022"
+msgid "Items per page"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Search History Size"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Cache Size (MB)"
+msgstr "Kích thước bộ nhớ đệm"
+
+msgctxt "#30025"
+msgid "Enable setup-wizard"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Override View"
+msgstr ""
+
+msgctxt "#30027"
+msgid "View: Default"
+msgstr "Chế độ xem: mặc định"
+
+msgctxt "#30028"
+msgid "View: Episodes"
+msgstr "Chế độ xem: Tập"
+
+msgctxt "#30029"
+msgid "View: Movies"
+msgstr "Chế độ xem: Phim"
+
+msgctxt "#30030"
+msgid "Execute setup-wizard?"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Advanced"
+msgstr "Nâng cao"
+
+msgctxt "#30032"
+msgid "View: TV Shows"
+msgstr "Chế độ xem: TV Show"
+
+msgctxt "#30033"
+msgid "View: Songs"
+msgstr "Chế độ xem: Bài hát"
+
+msgctxt "#30034"
+msgid "View: Artists"
+msgstr "Chế độ xem: Nghệ sĩ"
+
+msgctxt "#30035"
+msgid "View: Albums"
+msgstr "Chế độ xem: Album"
+
+msgctxt "#30036"
+msgid "Support alternative player"
+msgstr ""
+
+# Kodion Common
+# empty strings from id 30037 to 30099
+msgctxt "#30100"
+msgid "Favorites"
+msgstr "Yêu thích"
+
+msgctxt "#30101"
+msgid "Add to addon favs"
+msgstr ""
+
+msgctxt "#30102"
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgctxt "#30103"
+msgid "Library"
+msgstr "Thư viện"
+
+msgctxt "#30104"
+msgid "Highlights"
+msgstr "Điểm nổi bật"
+
+msgctxt "#30105"
+msgid "Archive"
+msgstr "Lưu trữ"
+
+msgctxt "#30106"
+msgid "Next Page (%d)"
+msgstr "Trang tiếp theo (%d)"
+
+msgctxt "#30107"
+msgid "Watch Later"
+msgstr "Xem sau"
+
+msgctxt "#30108"
+msgid "Remove"
+msgstr "Bỏ %s"
+
+msgctxt "#30109"
+msgid "Latest Videos"
+msgstr "Video mới nhất"
+
+msgctxt "#30110"
+msgid "New Search"
+msgstr "Tìm kiếm"
+
+msgctxt "#30111"
+msgid "Sign In"
+msgstr "Đăng nhập"
+
+msgctxt "#30112"
+msgid "Sign Out"
+msgstr "Đăng xuất"
+
+msgctxt "#30113"
+msgid "Rename"
+msgstr "Đổi tên"
+
+msgctxt "#30114"
+msgid "Confirm delete"
+msgstr "Xác nhận xóa "
+
+msgctxt "#30115"
+msgid "Confirm remove"
+msgstr "Xác nhận xóa "
+
+msgctxt "#30116"
+msgid "Delete \"%s\"?"
+msgstr "Xóa '%s'?"
+
+msgctxt "#30117"
+msgid "Remove \"%s\"?"
+msgstr "Bỏ %s"
+
+msgctxt "#30118"
+msgid "Delete"
+msgstr "Xóa"
+
+msgctxt "#30119"
+msgid "Please wait..."
+msgstr "Vui lòng chờ.."
+
+msgctxt "#30120"
+msgid "Clear"
+msgstr "Làm sạch"
+
+# YouTube
+# empty strings from id 30121 to 30199
+msgctxt "#30200"
+msgid "API Key"
+msgstr ""
+
+msgctxt "#30201"
+msgid "API Key"
+msgstr ""
+
+msgctxt "#30202"
+msgid "API Id"
+msgstr ""
+
+msgctxt "#30203"
+msgid "API Secret"
+msgstr ""
+
+msgctxt "#30204"
+msgid "Enable Personal API Keys"
+msgstr ""
+
+msgctxt "#30205"
+msgid "Autologin on Error enable"
+msgstr ""
+
+# YouTube
+# empty strings from id 30206 to 30499
+msgctxt "#30500"
+msgid "Channels"
+msgstr "Kênh"
+
+msgctxt "#30501"
+msgid "Playlists"
+msgstr "Danh sách phát"
+
+msgctxt "#30502"
+msgid "Go to %s"
+msgstr ""
+
+msgctxt "#30503"
+msgid "Show channel fanart"
+msgstr ""
+
+msgctxt "#30504"
+msgid "Subscriptions"
+msgstr "Đăng ký"
+
+msgctxt "#30505"
+msgid "Unsubscribe"
+msgstr "Hủy đăng ký"
+
+msgctxt "#30506"
+msgid "Subscribe"
+msgstr "Đăng ký"
+
+msgctxt "#30507"
+msgid "My Channel"
+msgstr "Kênh của tôi"
+
+msgctxt "#30508"
+msgid "Liked Videos"
+msgstr "Thích video"
+
+msgctxt "#30509"
+msgid "History"
+msgstr "Lịch sử"
+
+msgctxt "#30510"
+msgid "My Subscriptions"
+msgstr ""
+
+msgctxt "#30511"
+msgid "Queue video"
+msgstr ""
+
+msgctxt "#30512"
+msgid "Browse Channels"
+msgstr ""
+
+msgctxt "#30513"
+msgid "Popular right now"
+msgstr ""
+
+msgctxt "#30514"
+msgid "Related Videos"
+msgstr "Video liên quan"
+
+msgctxt "#30515"
+msgid "Auto-Remove from 'Watch Later'"
+msgstr ""
+
+msgctxt "#30516"
+msgid "Folders"
+msgstr "Thư mục"
+
+msgctxt "#30517"
+msgid "Subscribe to %s"
+msgstr ""
+
+msgctxt "#30518"
+msgid "Go to '%s'"
+msgstr "Đi đến '%s'"
+
+msgctxt "#30519"
+msgid "and enter the following code:"
+msgstr ""
+
+msgctxt "#30520"
+msgid "Add to..."
+msgstr "Thêm..."
+
+msgctxt "#30521"
+msgid "Select playlist"
+msgstr "Chọn playlist"
+
+msgctxt "#30522"
+msgid "New playlist..."
+msgstr "Thêm playlist..."
+
+msgctxt "#30523"
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgctxt "#30524"
+msgid "Select language"
+msgstr "Chọn Ngôn ngữ"
+
+msgctxt "#30525"
+msgid "Select region"
+msgstr "Chọn Vùng"
+
+msgctxt "#30526"
+msgid "Adjust"
+msgstr ""
+
+msgctxt "#30527"
+msgid "Language and region?"
+msgstr "Ngôn ngữ và khu vực?"
+
+msgctxt "#30528"
+msgid "Rate..."
+msgstr ""
+
+msgctxt "#30529"
+msgid "I like this"
+msgstr "Tôi thích điều này"
+
+msgctxt "#30530"
+msgid "I dislike this"
+msgstr "Tôi không thích điều này"
+
+msgctxt "#30531"
+msgid "Play all"
+msgstr "Phát tất cả"
+
+msgctxt "#30532"
+msgid "Default"
+msgstr "Mặc định"
+
+msgctxt "#30533"
+msgid "Reverse"
+msgstr "Đảo ngược"
+
+msgctxt "#30534"
+msgid "Shuffle"
+msgstr ""
+
+msgctxt "#30535"
+msgid "Select the order of the playlist"
+msgstr "Chọn thứ tự của danh sách phát"
+
+msgctxt "#30536"
+msgid "Updating Playlist..."
+msgstr "Cập nhật danh sách phát..."
+
+msgctxt "#30537"
+msgid "Play from here"
+msgstr "Phát từ đây"
+
+msgctxt "#30538"
+msgid "Disliked Videos"
+msgstr "Không thích video"
+
+msgctxt "#30539"
+msgid "Live"
+msgstr "Truyền hình trực tiếp"
+
+msgctxt "#30540"
+msgid "Play with..."
+msgstr "Phát với.."
+
+msgctxt "#30541"
+msgid "Show channel name in description"
+msgstr "Hiển thị tên kênh trong mô tả"
+
+msgctxt "#30542"
+msgid "rtmpe streams are not supported"
+msgstr ""
+
+msgctxt "#30543"
+msgid "Refresh"
+msgstr "Làm mới"
+
+msgctxt "#30544"
+msgid "More Links from the description"
+msgstr "Thêm các liên kết từ các mô tả"
+
+msgctxt "#30545"
+msgid "No further links found."
+msgstr ""
+
+msgctxt "#30546"
+msgid "Please log in twice!"
+msgstr ""
+
+msgctxt "#30547"
+msgid "You must enable two applications so that YouTube is functioning properly."
+msgstr "Bạn phải cho phép hai ứng dụng vì vậy mà YouTube là hoạt động đúng."
+
+msgctxt "#30548"
+msgid "More..."
+msgstr "Xem thêm.."
+
+msgctxt "#30549"
+msgid "No videos streams found"
+msgstr "Các dvideo không tìm thấy"
+
+msgctxt "#30550"
+msgid "Region"
+msgstr "Vùng"
+
+msgctxt "#30551"
+msgid "Recommendations"
+msgstr ""
